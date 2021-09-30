@@ -60,66 +60,6 @@ export default function Sidebar() {
                 <img className="sidebarFriendImg" src="/assets/person/1.jpeg" alt="" />
                 <span className="sidebarFriendName">Jane Smith</span>
             </li>
-            <li className="sidebarFriend">
-                <img className="sidebarFriendImg" src="/assets/person/3.jpeg" alt="" />
-                <span className="sidebarFriendName">Jenny Cash</span>
-            </li>
-            <li className="sidebarFriend">
-                <img className="sidebarFriendImg" src="/assets/person/4.jpeg" alt="" />
-                <span className="sidebarFriendName">April Jones</span>
-            </li>
-            <li className="sidebarFriend">
-                <img className="sidebarFriendImg" src="/assets/person/5.jpeg" alt="" />
-                <span className="sidebarFriendName">Grace Tunner</span>
-            </li>
-            <li className="sidebarFriend">
-                <img className="sidebarFriendImg" src="/assets/person/6.jpeg" alt="" />
-                <span className="sidebarFriendName">Mia Rowlet</span>
-            </li>
-            <li className="sidebarFriend">
-                <img className="sidebarFriendImg" src="/assets/person/7.jpeg" alt="" />
-                <span className="sidebarFriendName">John Smith</span>
-            </li>
-            <li className="sidebarFriend">
-                <img className="sidebarFriendImg" src="/assets/person/8.jpeg" alt="" />
-                <span className="sidebarFriendName">Jasmin Smith</span>
-            </li>
-            <li className="sidebarFriend">
-                <img className="sidebarFriendImg" src="/assets/person/9.jpeg" alt="" />
-                <span className="sidebarFriendName">Molly Lewis</span>
-            </li>
-            <li className="sidebarFriend">
-                <img className="sidebarFriendImg" src="/assets/person/1.jpeg" alt="" />
-                <span className="sidebarFriendName">Jane Smith</span>
-            </li>
-            <li className="sidebarFriend">
-                <img className="sidebarFriendImg" src="/assets/person/3.jpeg" alt="" />
-                <span className="sidebarFriendName">Jenny Cash</span>
-            </li>
-            <li className="sidebarFriend">
-                <img className="sidebarFriendImg" src="/assets/person/4.jpeg" alt="" />
-                <span className="sidebarFriendName">April Jones</span>
-            </li>
-            <li className="sidebarFriend">
-                <img className="sidebarFriendImg" src="/assets/person/5.jpeg" alt="" />
-                <span className="sidebarFriendName">Grace Tunner</span>
-            </li>
-            <li className="sidebarFriend">
-                <img className="sidebarFriendImg" src="/assets/person/6.jpeg" alt="" />
-                <span className="sidebarFriendName">Mia Rowlet</span>
-            </li>
-            <li className="sidebarFriend">
-                <img className="sidebarFriendImg" src="/assets/person/7.jpeg" alt="" />
-                <span className="sidebarFriendName">John Smith</span>
-            </li>
-            <li className="sidebarFriend">
-                <img className="sidebarFriendImg" src="/assets/person/8.jpeg" alt="" />
-                <span className="sidebarFriendName">Jasmin Smith</span>
-            </li>
-            <li className="sidebarFriend">
-                <img className="sidebarFriendImg" src="/assets/person/9.jpeg" alt="" />
-                <span className="sidebarFriendName">Molly Lewis</span>
-            </li>
         </ul>
       </div>
     </div>
